@@ -31,3 +31,18 @@ Utilizar técnicas de data science e machine learning para desenvolver o projeto
 Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra tecnologia de apresentação de Output de modelos de Machine Learning;
 A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados;
 Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
+
+---
+# Repositórios e vídeos de pessoas que finalizaram o projeto:
+
+1. https://www.youtube.com/watch?v=7DYYgarngMg&t=5s
+2. https://github.com/marcelo-guimaraes/Data-Science
+3. https://github.com/LucasYuki/Projeto-AceleraDev-Data-Science
+4. https://github.com/diasctiago/recommend-leads/blob/master/main.ipynb
+5. https://www.youtube.com/watch?v=GmGVBqueIwc&feature=youtu.be
+  - https://github.com/alconradt/Projeto-Final-AceleraDev-Data-Science
+6. https://github.com/tkleyton/codenation/tree/master/projeto_final
+7. https://github.com/rogeriothur/codenation-ds/tree/master/projeto-final
+8. https://github.com/Lurvetti/codenation-DS/tree/master/final_project
+9. https://github.com/tkleyton/aceleradev-leads-dash
+  - https://leads-generator-dash.herokuapp.com/
