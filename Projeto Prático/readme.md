@@ -46,3 +46,7 @@ Para a apresentação do projeto, o tempo entre o treinamento do modelo e o outp
 8. https://github.com/Lurvetti/codenation-DS/tree/master/final_project
 9. https://github.com/tkleyton/aceleradev-leads-dash
   - https://leads-generator-dash.herokuapp.com/
+10. https://github.com/rogeriothur/codenation-ds/tree/master/projeto-final
+11. https://github.com/tiagofer/leads_match_system
+12. https://github.com/tkleyton/codenation/tree/master/projeto_final
+13. https://github.com/diasctiago/recommend-leads?files=1
